@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and generated data
+custom_gpt2_model/
+cached_*
+output.txt
+dataset.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and environments
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# distribution / packaging
+dist/
+build/
+*.egg-info/
