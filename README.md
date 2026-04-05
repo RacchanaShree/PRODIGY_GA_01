@@ -1,4 +1,5 @@
-# Generative AI Task 01: Text Generation with GPT-2
+# PRODIGY_GA_01
+Text Generation with GPT-2
 
 This project demonstrates how to fine-tune the GPT-2 transformer model, initially developed by OpenAI, on a custom text dataset to generate contextually relevant text that mimics the style of the training data.
 
